@@ -1,7 +1,7 @@
 ---
 permalink: /test/
 layout: default
-title: Testing testing
+title: Testing testing 123
 ---
 To add new pages to the guide, first create a new
 [Markdown](http://daringfireball.net/projects/markdown/syntax) file in the
