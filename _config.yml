@@ -19,8 +19,20 @@ navigation:
 - text: Home
   url: index.html
   internal: true
-- text: Adding a New Page
-  url: test/
+- text: 1. Create the Problem Statement
+  url: problem-statement/
+  internal: true
+- text: 2. Declare Assumptions
+  url: declare-assumptions/
+  internal: true
+- text: 3. Prioritize Assumptions, then Build Hypotheses
+  url: build-hypotheses/
+  internal: true
+- text: 4. Select & Break Down Hypotheses
+  url: break-down-hypotheses/
+  internal: true
+- text: 5. Bring into Agile
+  url: bring-into-agile/
   internal: true
 
 repos:

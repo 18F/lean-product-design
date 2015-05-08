@@ -1,0 +1,21 @@
+---
+permalink: /build-hypotheses/
+layout: default
+title: Prioritize Assumptions, then Build Hypotheses
+---
+
+**3. Now, bring the raw assumptions material together in the table
+below. **
+
+You are starting to construct your hypotheses. For each hypothesis, you
+will state the metrics that you will see to know if you are right/wrong.
+They may be high-level, which is ok.
+
+  **We believe that (doing/building/creating this)**   **For this user/persona**   **Will result in (this outcome)**   **We’ll know we’re right when we see (this signal / metric)**
+  ---------------------------------------------------- --------------------------- ----------------------------------- ---------------------------------------------------------------
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                
