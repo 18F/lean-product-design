@@ -5,21 +5,18 @@ title: Select & Break Down Hypotheses
 ---
 
 
-**4. These are your hypotheses. They may be broad at this point.
-As a team, select 3 to 5 of the most compelling hypotheses to tackle.**
+**These are your hypotheses. They may be broad at this point.
+As a team, select three to five of the most compelling hypotheses to tackle.**
 
-For example, you might want to select the least known hypotheses - the
-ones your team is most unsure about - in order to learn quickly about
+For example, you might want to select the least-known hypotheses — the
+ones your team is most unsure about — in order to learn quickly about
 possible risks.
 
 Or, you might select the top three that have the most compelling or
 desired outcomes. The main idea here is that by making a selection, you
 and your product owner are prioritizing and choosing a direction.
 
-
-
-
-**5. Break these down into more concrete feature/action hypotheses. You
+**Break these down into more concrete feature and action hypotheses. You
 may need to break them down several times.**
 
 Example:
