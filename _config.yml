@@ -1,6 +1,13 @@
-baseurl: /LeanUX
 markdown: redcarpet
 name: 18F Guide to Lean UX
+
+exclude:
+- CONTRIBUTING.md
+- Gemfile
+- Gemfile.lock
+- LICENSE.md
+- README.md
+- go
 
 permalink: pretty
 
@@ -16,23 +23,26 @@ logoalt: 18f logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
+- text: Introduction to Lean UX
   url: index.html
   internal: true
-- text: 1. Create the Problem Statement
+- text: Gather your research & create your problem statement
   url: problem-statement/
   internal: true
-- text: 2. Declare Assumptions
+- text: Declare your Assumptions
   url: declare-assumptions/
   internal: true
-- text: 3. Prioritize Assumptions, then Build Hypotheses
+- text: Prioritize Assumptions, then Build Hypotheses
   url: build-hypotheses/
   internal: true
-- text: 4. Select & Break Down Hypotheses
+- text: Select & Break Down Hypotheses
   url: break-down-hypotheses/
   internal: true
-- text: 5. Bring into Agile
+- text: Bring into Agile
   url: bring-into-agile/
+  internal: true
+- text: Images
+  url: images/
   internal: true
 
 repos:
@@ -40,5 +50,9 @@ repos:
   description: Main repository
   url: https://github.com/18F/LeanUX
 
-# Style Variables
-brand_color: "#1188ff"
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "guides_style_18f_default"

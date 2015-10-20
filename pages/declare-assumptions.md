@@ -1,6 +1,5 @@
 ---
 permalink: /declare-assumptions/
-layout: default
 title: Declare your Assumptions
 ---
 

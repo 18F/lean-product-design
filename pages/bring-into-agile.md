@@ -1,6 +1,5 @@
 ---
 permalink: /bring-into-agile/
-layout: default
 title: Bring into Agile
 ---
 

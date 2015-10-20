@@ -1,6 +1,5 @@
 ---
 permalink: /build-hypotheses/
-layout: default
 title: Prioritize Assumptions, then Build Hypotheses
 ---
 
