@@ -1,6 +1,5 @@
 ---
 permalink: /bring-into-agile/
-layout: default
 title: Bring into Agile
 ---
 
@@ -9,9 +8,3 @@ title: Bring into Agile
 broken down to the point where they can become the source of user
 stories, which will also be written as hypotheses.**
 
-**TO DO:**
-
-- Show how to flesh out hypotheses to user stories process, examples
-- Trello and story tracking
-- Show how to integrate with agile, user research
-- Visualize cycle/process

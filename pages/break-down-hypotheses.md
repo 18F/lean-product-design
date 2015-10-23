@@ -1,6 +1,5 @@
 ---
 permalink: /break-down-hypotheses/
-layout: default
 title: Select & Break Down Hypotheses
 ---
 

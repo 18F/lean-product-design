@@ -1,6 +1,5 @@
 ---
 permalink: /problem-statement/
-layout: default
 title: Gather your research & create your problem statement
 ---
 

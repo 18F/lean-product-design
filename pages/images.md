@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Images
 description: 'How we work with images'
 permalink: /images/
-page_title: Images
 ---
 When using images on a page, you must provide an alternate method for that content. This can be provided in multiple ways. You can provide this information with a caption, alt tag, title tag, or aria label. If an image has text, all the text in the image must be provided in the alternate content. No matter which method is used, an alt or title tag must be provided, even if the tag is blank.
 
