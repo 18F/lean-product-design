@@ -4,13 +4,13 @@ layout: default
 title: Declare your Assumptions
 ---
 
-**2. In response to the problem statement the team just created, the
-team now maps out all the assumptions it has (everyone should
+In response to the problem statement the team just created, now map out all the assumptions it has (everyone should
 contribute) about the needs, the users, and the potential
-solutions/features.**
+solutions or features.
 
 **Needs/Solution Assumptions**
 
+<<<<<<< HEAD
 1. I believe my users have a need to:
 
 > - 
@@ -45,6 +45,7 @@ solutions/features.**
 
 > -  
 
+
 **User Assumptions**
 
 1.  Who is the user?
@@ -66,3 +67,4 @@ solutions/features.**
 5.  How should our product look and behave?
 
 > - 
+
