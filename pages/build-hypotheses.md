@@ -5,7 +5,7 @@ title: Prioritize Assumptions, then Build Hypotheses
 ---
 
 **3. Now, bring the raw assumptions material together in the table
-below. **
+below.**
 
 You are starting to construct your hypotheses. For each hypothesis, you
 will state the metrics that you will see to know if you are right/wrong.
