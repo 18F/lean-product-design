@@ -26,29 +26,43 @@ navigation:
 - text: Introduction to Lean UX
   url: index.html
   internal: true
-- text: Gather your research & create your problem statement
-  url: problem-statement/
+- text: 1. Conduct discovery research
+  url: 1-discovery-research/
   internal: true
-- text: Declare your Assumptions
-  url: declare-assumptions/
+- text: 2. Write a problem statement
+  url: 2-problem-statement/
   internal: true
-- text: Prioritize Assumptions, then Build Hypotheses
-  url: build-hypotheses/
+- text: 3. Identify your assumptions
+  url: 3-identify-assumptions/
   internal: true
-- text: Select & Break Down Hypotheses
-  url: break-down-hypotheses/
+- text: 4. Select assumptions
+  url: 4-select-assumptions/
   internal: true
-- text: Bring into Agile
-  url: bring-into-agile/
+- text: 5. Develop broad hypotheses
+  url: 5-develop-hypotheses/
   internal: true
-- text: Images
-  url: images/
+- text: 6. Prioritize broad hypotheses
+  url: 6-prioritize/
   internal: true
+- text: 7. Break down hypotheses
+  url: 7-break-down/
+  internal: true
+- text: 8. Groom the backlog
+  url: 8-groom-backlog/
+  internal: true
+- text: 9. Plan the sprint and kick off the agile cycle
+  url: 9-plan-sprint-agile/
+  internal: true
+
 
 repos:
 - name: LeanUX
   description: Main repository
   url: https://github.com/18F/LeanUX
+
+back_link:
+  url: "https://pages.18f.gov/guides/"
+  text: Back to 18F Guides
 
 defaults:
   -
