@@ -31,4 +31,4 @@ A note for UX practitioners: Lean UX may change how you do UX research. Some UX 
 
 **Credit and thanks**
 
-Many of these ideas - and some of the worksheets, such as the identifying assumptions worksheet - come from works written by Jeff Gothelf, Josh Seiden, and Eric Ries. 
+Many of these ideas - and some of the worksheets, such as the identifying assumptions worksheet - are based on works written by Jeff Gothelf, Josh Seiden, and Eric Ries. 
