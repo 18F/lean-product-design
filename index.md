@@ -30,4 +30,5 @@ These hypotheses start at the very beginning of your project discovery process b
 A note for UX practitioners: Lean UX may change how you do UX research. Some UX practitioners are used to writing big reports at the conclusion of their research. In Lean UX, iteration and learning over repeated experiments is valued over breadth of research. You should document the results of your hypothesis test clearly and concisely so you can share them quickly with your team, learn from them, and devise another experiment. 
 
 **Credit and thanks**
+
 Many of these ideas - and some of the worksheets, such as the identifying assumptions worksheet - come from works written by Jeff Gothelf, Josh Seiden, and Eric Ries. 
