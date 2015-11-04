@@ -26,6 +26,9 @@ navigation:
 - text: Introduction to Lean UX
   url: index.html
   internal: true
+- text: Principles
+  url: lean-ux-principles/
+  internal: true
 - text: 1. Conduct discovery research
   url: 1-discovery-research/
   internal: true
