@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: 18F Guide to Lean UX
+name: Lean Product Design
 
 exclude:
 - CONTRIBUTING.md
@@ -23,7 +23,7 @@ logoalt: 18f logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction to Lean UX
+- text: Introduction
   url: index.html
   internal: true
 - text: Principles
