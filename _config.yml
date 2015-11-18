@@ -61,7 +61,7 @@ navigation:
 repos:
 - name: LeanUX
   description: Main repository
-  url: https://github.com/18F/LeanUX
+  url: https://github.com/18F/LeanProductDesign
 
 back_link:
   url: "https://pages.18f.gov/guides/"
