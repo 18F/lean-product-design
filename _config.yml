@@ -27,7 +27,7 @@ navigation:
   url: index.html
   internal: true
 - text: Principles
-  url: lean-ux-principles/
+  url: lean-product-principles/
   internal: true
 - text: 1. Conduct discovery research
   url: 1-discovery-research/
@@ -59,9 +59,9 @@ navigation:
 
 
 repos:
-- name: LeanUX
+- name: lean-product-design
   description: Main repository
-  url: https://github.com/18F/LeanProductDesign
+  url: https://github.com/18F/lean-product-design
 
 back_link:
   url: "https://pages.18f.gov/guides/"
