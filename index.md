@@ -13,7 +13,7 @@ When building digital tools and services, it’s very easy to think about our wo
 
 Even in an agile development process, it’s easy to lose track of the outcomes we’re trying to achieve. And we often don’t measure them until the end. Lean product design forces us to check, as we build each piece, how it works and what it accomplishes.
 
-###Our Guide
+###Our guide
 In order to reflect on what we’ve learned in trying this approach, and to help other digital teams who might be interested, we’ve written a detailed step-by-step reference guide, which includes:
 >- Steps for planning and executing a project with lean in mind
 - A process for distilling assumptions into hypotheses 
