@@ -15,13 +15,17 @@ Your turn: Thinking about your problem statement, map out all the assumptions yo
 5. I believe I will acquire the majority of my users through: 
 6. I believe my biggest product risk is: 
 7. We will solve this through: 
-8. What other assumptions do we have that, if proven false, will cause our project to fail? 
+8. What systems will our solution need to interact with?
+9. What other assumptions do we have that, if proven false, will cause our project to fail? 
+ 
 
 ###User assumptions
 
->1. Who is the user?Note: Now would be a good time to conduct a [persona creation exercise](https://methods.18f.gov/personas/). 
+>1. Who is the user? _Note: Now would be a good time to conduct a [persona creation exercise](https://methods.18f.gov/personas/)._
 2. What problems does our product solve? 
 3. When and how is our product used? 
 4. What features are important? 
 5. How should our product look and behave? 
+6. What are our [design principles](https://pages.18f.gov/design-principles-guide/index.html)?
+6. What will the touchpoints be?
   
