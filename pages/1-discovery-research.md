@@ -13,6 +13,6 @@ These design methods can help guide your research with both stakeholders and pos
 - [KJ method](https://methods.18f.gov/kj-method/) 
 - [Heuristic analysis ](https://methods.18f.gov/heuristic-analysis/) 
 
-Your goal is to identify the challenges both groups face and the relationship between the two groups. Focus on the problems stakeholders have, not on potential solutions.
+Your goal is two-fold: 1) Identify and more deeply understand the challenges facing the organization and its stakeholders, and 2) Explore the problems, context, behaviors, and motivations of the intended users.
 
 **Lean product design may change how you do UX research.** Some UX practitioners are used to writing big reports at the conclusion of a single research phase. Here, iteration and learning over repeated experiments is valued over breadth of research. Document the results of your hypothesis test clearly and concisely so you can share them quickly with your team, learn from them, and devise another experiment. 
