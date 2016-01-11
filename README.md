@@ -2,8 +2,6 @@
 
 *An interactive guide (and template) on how to plan and structure projects that use experiments to drive toward outcomes, using agile and scrum methodologies.*
 
-[Access the guide here](https://pages.18f.gov/LeanUX)
-
 ###What is lean UX?
 
 Lean UX is a collaborative, outcome-focused product development and project management philosophy and process. It builds on agile and lean principles and provides a structured way to build software through quick, iterative experiments — all within a scrum and agile sprint framework. *Note: Lean UX can be adapted to other management and development frameworks, such as Kanban, but for this guide we will focus on scrum and agile.*
