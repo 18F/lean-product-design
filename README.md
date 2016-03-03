@@ -10,7 +10,11 @@ Doing lean UX means fundamentally changing your team’s focus from outputs (for
 
 ### Thanks
 
-Our guide is based on ideas and materials from Jeff Gothelf and Josh Seiden's book: *Lean UX.*
+Our guide is primarily based on our experience practicing lean UX with teams at 18F, but also draws from ideas and materials from Jeff Gothelf and Josh Seiden's book: *Lean UX.*
+
+### Contributing
+
+Please feel free to post comments here in the repo as issues, or reach out to Nick Brethauer, at nicholas.brethauer at GSA dot gov.
 
 ### Public domain
 
