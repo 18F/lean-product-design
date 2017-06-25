@@ -6,12 +6,13 @@ The first stage of any project is to do research to discover problems that need 
 
 These design methods can help guide your research with both stakeholders and possible end users:
 
->- [Contextual inquiry](https://methods.18f.gov/contextual-inquiry/)[](https://methods.18f.gov/bodystorming/) 
-- [Stakeholder and user interviews](https://methods.18f.gov/stakeholder-and-user-interviews/) 
-- [Journey mapping](https://methods.18f.gov/journey-mapping/) 
-- [Cognitive walkthroughs](https://methods.18f.gov/cognitive-walkthrough/) 
-- [KJ method](https://methods.18f.gov/kj-method/) 
-- [Heuristic analysis ](https://methods.18f.gov/heuristic-analysis/) 
+- [Contextual inquiry](https://methods.18f.gov/discover/contextual-inquiry/)
+- [Bodystorming](https://methods.18f.gov/discover/bodystorming/) 
+- [Stakeholder and user interviews](https://methods.18f.gov/discover/stakeholder-and-user-interviews/) 
+- [Journey mapping](https://methods.18f.gov/decide/journey-mapping/) 
+- [Cognitive walkthroughs](https://methods.18f.gov/discover/cognitive-walkthrough/) 
+- [KJ method](https://methods.18f.gov/discover/kj-method/) 
+- [Heuristic analysis ](https://methods.18f.gov/discover/heuristic-analysis/) 
 
 Your goal is three-fold: 
 
