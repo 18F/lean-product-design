@@ -17,7 +17,7 @@ What: Order hypotheses (stories) by priority in the appropriate backlog.
 ###At the beginning of the sprint:
 
 __2\. Plan the sprint__
->Who: All! (PO/PM/Team)  
+>Who: All! PO, project lead, and team.
 What: Bring stories into the sprint backlog. Team defines and volunteers for tasks, and write acceptance criteria (for example user outcomes, basic functionality).  
 
 __3\. Hold a design studio__
